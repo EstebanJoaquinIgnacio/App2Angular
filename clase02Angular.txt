@@ -1,0 +1,9 @@
+ng serve --open (abrir proyecto de angular)
+
+crear componente ng g c NOMBRE
+
+https://angular.io/docs/ts/latest/guide/router.html#!#basics-router-imports (crear linkeo y root)
+
+https://colorlib.com/wp/html5-and-css3-login-forms/
+
+https://desarrolloweb.com/articulos/186.php
